@@ -1,9 +1,10 @@
 streamlit
 geopandas
-shapely
 matplotlib
-contextily
-beautifulsoup4
 simplekml
-reportlab
+shapely
 pyproj
+reportlab
+contextily
+lxml
+beautifulsoup4
