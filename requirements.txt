@@ -1,0 +1,9 @@
+streamlit
+geopandas
+shapely
+matplotlib
+contextily
+beautifulsoup4
+simplekml
+reportlab
+pyproj
